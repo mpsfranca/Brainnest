@@ -1,0 +1,9 @@
+{
+    "SenderEmail":"sender_email",
+    "SenderPassword":"sender_password",
+    "ReceiverList":["email1@example.com",
+                    "email2@example.com",
+                    "email3@example.com",
+                    "email4@example.com",
+                    "email5@example.com"]
+}

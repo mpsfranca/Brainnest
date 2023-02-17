@@ -1,0 +1,102 @@
+[
+    {
+        "Order Number": "001",
+        "Customer": "John Doe",
+        "Items": {
+            "Item 1": 2,
+            "Item 2": 0,
+            "Item 3": 1,
+            "Item 4": 0
+        }
+    },
+    {
+        "Order Number": "002",
+        "Customer": "Jane Smith",
+        "Items": {
+            "Item 1": 1,
+            "Item 2": 2,
+            "Item 3": 0,
+            "Item 4": 0
+        }
+    },
+    {
+        "Order Number": "003",
+        "Customer": "Bob Johnson",
+        "Items": {
+            "Item 1": 0,
+            "Item 2": 1,
+            "Item 3": 0,
+            "Item 4": 3
+        }
+    },
+    {
+        "Order Number": "004",
+        "Customer": "Alice Lee",
+        "Items": {
+            "Item 1": 0,
+            "Item 2": 0,
+            "Item 3": 3,
+            "Item 4": 1
+        }
+    },
+    {
+        "Order Number": "005",
+        "Customer": "David Chen",
+        "Items": {
+            "Item 1": 2,
+            "Item 2": 1,
+            "Item 3": 1,
+            "Item 4": 0
+        }
+    },
+    {
+        "Order Number": "006",
+        "Customer": "Kelly Nguyen",
+        "Items": {
+            "Item 1": 0,
+            "Item 2": 0,
+            "Item 3": 2,
+            "Item 4": 2
+        }
+    },
+    {
+        "Order Number": "007",
+        "Customer": "Michael Brown",
+        "Items": {
+            "Item 1": 1,
+            "Item 2": 0,
+            "Item 3": 0,
+            "Item 4": 1
+        }
+    },
+    {
+        "Order Number": "008",
+        "Customer": "Susan Lee",
+        "Items": {
+            "Item 1": 0,
+            "Item 2": 3,
+            "Item 3": 0,
+            "Item 4": 0
+        }
+    },
+    {
+        "Order Number": "009",
+        "Customer": "Chris Wilson",
+        "Items": {
+            "Item 1": 1,
+            "Item 2": 1,
+            "Item 3": 1,
+            "Item 4": 1
+        }
+    },
+    {
+        "Order Number": "010",
+        "Customer": "Michelle Davis",
+        "Items": {
+            "Item 1": 2,
+            "Item 2": 2,
+            "Item 3": 2,
+            "Item 4": 2
+        }
+    }
+]
