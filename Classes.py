@@ -1,3 +1,6 @@
+# I still need to do three tasks: -> Countdown App
+#                                 -> Weather App
+#                                 -> Personal Budgeting App
 # This python file was created to store any loose code I've had to do.
 
 # def feeling_func():
@@ -402,8 +405,8 @@
 # result = list(sorted(d,key=lambda x: x["age"]))
 # print(result)
 
-string = "it was a pleasure doing this course!"
+# string = "it was a pleasure doing this course!"
 
-result = " ".join(map(lambda x: x.capitalize(), string.split()))
+# result = " ".join(map(lambda x: x.capitalize(), string.split()))
 
-print(result)
+# print(result)
